@@ -1,2 +1,2 @@
 AAAAAAA
-Nu tipa
+Изменено прямо на GitHub
